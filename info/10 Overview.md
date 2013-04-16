@@ -18,14 +18,14 @@ Als je een langere cursus wil volgen die je thuis kunt blijven doen dan is dit
 een leuke cursus om mee te beginnen. Je kunt eerst de Scratch-cursus doen als
 je zin hebt.
 
-[Start...](/codecademy/getting-started)
+[Start...](/codecademy/getting-started--2)
 
 ## Visualize with Processing
 
 Kun je al programmeren? Processing is een bijzonder taaltje dat speciaal
 ontwikkeld is om mooie visualisaties mee te maken. Liefst interactief.
 
-[Start...](/processing/getting-started)
+[Start...](/processing/getting-started--3)
 
 ## Leer functioneel programmeren met Haskell
 
@@ -33,7 +33,7 @@ Iets heel anders leren? Ga dan eens kijken of functioneel programmeren wat voor
 je is. Het is een totaal nieuwe manier van denken, die je ook helpt als je in
 andere programmeertalen ontwikkelt.
 
-[Start...](/haskell/getting-started)
+[Start...](/haskell/getting-started--4)
 
 ## Extra! Puzzle mania
 
