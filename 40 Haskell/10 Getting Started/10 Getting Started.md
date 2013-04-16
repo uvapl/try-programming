@@ -36,8 +36,9 @@ in zich hebben, bijvoorbeeld Python, Ruby en Java 8.
 ## Aan de slag!
 
 Het is tijd om zelf eens te gaan spelen met Haskell. Dat kan geheel online (je
-hoeft niks te installeren!) en zonder account bij de introductie ["Basics of
-Haskell"](https://www.fpcomplete.com/school/basics-of-haskell) van FP Complete. 
+hoeft niks te installeren!) bij de introductie in Haskell van FP Complete. 
+
+["Basics of Haskell"](https://www.fpcomplete.com/school/basics-of-haskell) 
 
 ## Hongerig naar meer?
 
