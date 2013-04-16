@@ -10,7 +10,7 @@ de website van Scratch is heel veel materiaal te krijgen om verder te leren.
 Start Scratch op de faculteitscomputer:
 
 > **Start &rarr; Run**
-> 	\\practicum-homes.fnwi.uva.nl\data\home\mstegem1\Scratch
+> 		\\practicum-homes.fnwi.uva.nl\data\home\mstegem1\Scratch
 
 Download vervolgens de [studiehandleiding](http://www.royalsoced.org.uk/cms/files/education/computing_materials/Starting_from_Scratch_LEARNER.pdf).
 
