@@ -3,10 +3,11 @@
 Het web kan niet meer zonder Javascript. Zo gebruikt Gmail bijvoorbeeld
 javascript om je te laten weten dat je een mail hebt zonder de hele pagina te
 herladen; zo heeft Facebook een chatclient geïmplementeerd in javascript; en zo
-gebruikt [D3](http://d3js.org/) javascript om visualizaties te laten zien, zie
-het voorbeeld hieronder.
+gebruikt [D3](http://d3js.org/) javascript om visualizaties te laten zien.
+Probeer je muis eens over het [D3
+voorbeeld](http://bl.ocks.org/mbostock/1062544) hieronder te bewegen.
 
-<iframe src="http://mbostock.github.io/d3/talk/20111018/choropleth.html" width="450" height="200" frameborder="0"></iframe>
+<iframe src="http://bl.ocks.org/mbostock/1062544" width="450" height="200" frameborder="0"></iframe>
 
 Maar daarnaast is Javascript ook gewoon een programmeertaal waarin je de
 basisprincipes van het programmeren kan leren!
