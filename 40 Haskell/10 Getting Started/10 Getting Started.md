@@ -5,7 +5,7 @@ ander paradigma dan imperatief programmeren, zoals je in talen als C en Java
 doet. En in plaats van de precieze verschillen uit te leggen, laten we je ze
 gewoon ondervinden.
 
-Om te beginnen even wat indrukwekkende, zeer compacte voorbeelden van Haskell
+Om te beginnen even wat indrukwekkende, zeer compacte voorbeelden in Haskell
 ([bron](http://blog.fogus.me/2011/06/03/10-haskell-one-liners-to-impress-your-friends/)):
 
 * Multiply each item in a list by 2:

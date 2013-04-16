@@ -13,5 +13,6 @@ basisprincipes van het programmeren kan leren!
 Tijd om te beginnen: Codecadamy geeft je de mogelijkheid om online javascript
 te leren. Met een account houden ze zelfs de voortgang voor je bij. Met meer
 dan 100 oefeningen voor Javascript ben je wel even zoet:
+
 <http://www.codecademy.com/#!/exercises/0>
 
