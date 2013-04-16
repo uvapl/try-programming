@@ -4,7 +4,7 @@ Het web kan niet meer zonder Javascript. Zo gebruikt Gmail bijvoorbeeld
 javascript om je te laten weten dat je een mail hebt zonder de hele pagina te
 herladen; zo heeft Facebook een chatclient geïmplementeerd in javascript; en zo
 gebruikt [D3](http://d3js.org/) javascript om visualizaties te laten zien.
-Probeer je muis eens over het [D3
+Probeer je muis maar eens over het [D3
 voorbeeld](http://bl.ocks.org/mbostock/1062544) hieronder te bewegen.
 
 <iframe src="http://bl.ocks.org/mbostock/1062544" width="600" height="400" frameborder="0"></iframe>
