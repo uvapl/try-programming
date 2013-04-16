@@ -7,16 +7,18 @@ de website van Scratch is heel veel materiaal te krijgen om verder te leren.
 
 ## Let's do it
 
-Start Scratch op de computer:
+Start Scratch op de faculteitscomputer:
 
 > **Start &rarr; Run**
-> 	\\home\mstegem1\prog\scratch
+> 	\\practicum-homes.fnwi.uva.nl\data\home\mstegem1\Scratch
 
 Download vervolgens de [studiehandleiding](http://www.royalsoced.org.uk/cms/files/education/computing_materials/Starting_from_Scratch_LEARNER.pdf).
 
 Als je Scratch in korte tijd wil uitproberen, begin dan bij hoofdstuk 1:
 *Starting from Scratch*. Als je thuis verder gaat, lees dan ook de inleiding om
 meer informatie te krijgen over programmeren en computers.
+
+Thuis kun je Scratch ook downloaden via de [MIT-site](http://info.scratch.mit.edu/Scratch_1.4_Download).
 
 ## Maak een Scratch-account
 
