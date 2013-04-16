@@ -1,6 +1,6 @@
 # Leer de basics met Scratch
 
-![Een afbeelding van Scratch blocks](scratch.png){:inline} Scratch is een drag-'n'-drop programmeertaal waarmee je alle principes van
+![Een afbeelding van Scratch blocks](scratch.png){:.inline} Scratch is een drag-'n'-drop programmeertaal waarmee je alle principes van
 andere programmeertalen kunt leren. Het is zo opgezet dat je al heel snel games
 en animaties kunt maken en langzamerhand uitbreiden en ingewikkelder maken. Op
 de website van Scratch is heel veel materiaal te krijgen om verder te leren.
