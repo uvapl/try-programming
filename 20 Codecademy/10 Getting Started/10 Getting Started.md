@@ -7,7 +7,7 @@ gebruikt [D3](http://d3js.org/) javascript om visualizaties te laten zien.
 Probeer je muis eens over het [D3
 voorbeeld](http://bl.ocks.org/mbostock/1062544) hieronder te bewegen.
 
-<iframe src="http://bl.ocks.org/mbostock/1062544" width="450" height="200" frameborder="0"></iframe>
+<iframe src="http://bl.ocks.org/mbostock/1062544" width="600" height="400" frameborder="0"></iframe>
 
 Maar daarnaast is Javascript ook gewoon een programmeertaal waarin je de
 basisprincipes van het programmeren kan leren!
