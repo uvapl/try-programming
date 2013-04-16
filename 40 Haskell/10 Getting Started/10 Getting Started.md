@@ -1,8 +1,8 @@
 # Leer functioneel programmeren met Haskell
 
 Haskell is een luie, functionele taal. Functioneel programmeren een totaal
-ander paradigma dan imperatief programmeren, zoals je in talen als C en Java
-doet. En in plaats van de precieze verschillen uit te leggen, laten we je ze
+ander paradigma dan imperatief programmeren, wat je in talen als C en Java
+doet. Maar in plaats van de precieze verschillen uit te leggen, laten we je ze
 gewoon ondervinden.
 
 Om te beginnen even wat indrukwekkende, zeer compacte voorbeelden in Haskell
@@ -36,9 +36,17 @@ in zich hebben, bijvoorbeeld Python, Ruby en Java 8.
 ## Aan de slag!
 
 Het is tijd om zelf eens te gaan spelen met Haskell. Dat kan geheel online (je
-hoeft niks te installeren!) bij de introductie in Haskell van FP Complete. 
+hoeft niks te installeren!) bij FP Complete. [Maak hier eerst een account
+aan](https://www.fpcomplete.com/auth/page/email/register).
+
+Lees dan eventjes [hoe je moet leren aan de *School of
+Haskell*](https://www.fpcomplete.com/school/how-to-use-the-school-of-haskell/learning-haskell-at-the-soh).
+Daarna kun je aan de slag met de [tutorials](https://www.fpcomplete.com/), wij
+raden je aan om te beginnen met:
 
 ["Basics of Haskell"](https://www.fpcomplete.com/school/basics-of-haskell) 
+
+
 
 ## Hongerig naar meer?
 
